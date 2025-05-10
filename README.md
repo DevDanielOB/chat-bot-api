@@ -1,6 +1,4 @@
 
-<pre lang="markdown">
-```markdown
 # 🤖 chat-bot-api
 
 A **chat-bot-api** é uma API back-end construída com **NestJS**, que permite a criação de usuários, autenticação com **JWT** e troca de mensagens em tempo real entre usuários cadastrados, utilizando **WebSocket** e **Redis**.
@@ -113,6 +111,3 @@ Certifique-se de ter os seguintes itens instalados:
 Contribuições são bem-vindas!  
 Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
 ```
-</pre>
-
-Se quiser, posso enviar isso também como um arquivo `.md` pronto para download. Deseja que eu gere esse arquivo?
