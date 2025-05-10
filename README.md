@@ -83,6 +83,8 @@ Content-Type: application/json
   "email": "usuario@example.com",
   "password": "senha123"
 }
+
+DENTRO DO FRONT END, CRIE 2 USUÁRIOS PARA CONSEGUIR ABRIR UM CHAT, POIS A BASE É CRIADA SEM USUÀRIOS
 ```
 
 ### Resposta
